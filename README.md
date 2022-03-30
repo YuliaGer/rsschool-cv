@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://YuliaGer.github.io/rsschool-cv/cv
+## https://YuliaGer.github.io/rsschool-cv/
